@@ -1,0 +1,132 @@
+.header-color {
+  background: #000000;
+  background: -webkit-linear-gradient(to left, #000000, #000000);
+  background: linear-gradient(to left, #b1a6a6, #000000);
+  opacity: 70%;
+}
+
+.beranda-grid {
+  background: url(https://e0.pxfuel.com/wallpapers/317/708/desktop-wallpaper-office-papers-paperwork.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.projects-grid {
+  display: flex;
+}
+
+.avatar-img {
+  padding-top: 5em;
+}
+
+.banner-text {
+  background-color: rgb(51, 49, 49);
+  opacity: 0.8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  padding-top: 1em;
+}
+
+.banner-text hr {
+  border-top: 5px solid  white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 1em;
+  padding: 14px;
+}
+
+.resume-right-col {
+  background: #27221f;
+  color: white;
+  padding: 2em;
+}
+
+.content-body {
+  background: url(https://e0.pxfuel.com/wallpapers/317/708/desktop-wallpaper-office-papers-paperwork.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.content-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid hr {
+  border-top: 5px solid black;
+  width: 20%;
+  margin: auto;
+}
+
+.content-grid2 {
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid2 h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.content-list i {
+  font-size: 102%;
+  padding-right: 5rem;
+  display: flex;
+}
+
+.imgCenter{
+  align-items: center;
+  margin-left: 12%;
+  margin-right: auto;
+}
+
+a {
+  color: rgb(0, 0, 0) !important;
+  font-weight: 500;
+}
