@@ -3,12 +3,14 @@ Udemy_implementation
 
 Clone Git:
 - https://github.com/AnriNobel/nobel.github.io.git
+- atau download .zip nya
 
 Instalasi :
 - jika menggunakan node.js / yarn juga bisa 
 
-Node.js ( instalasi terbaru )
+Node.js ( versi lama /instalasi terbaru )
 
 setelah Clone : 
+bisa diterminal Vscode / terminal
 - npm install
-- npm start ( jalankan di localhost:3000 )
+- npm start ( autoopen dibrowser )
