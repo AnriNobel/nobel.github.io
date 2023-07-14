@@ -1,16 +1,16 @@
 # Nobels_demos
 Udemy_implementation
 
-Clone Git:
+Git clones:
 - https://github.com/AnriNobel/nobel.github.io.git
-- atau download .zip nya
+- or download the .zip
 
-Instalasi :
-- jika menggunakan node.js / yarn juga bisa 
+Installation :
+- if you use node.js or yarn
 
-Node.js ( versi lama /instalasi terbaru )
+Node.js (old version/latest installation)
 
-setelah Clone : 
-bisa diterminal Vscode / terminal
+after clones:
+can be in the Vscode terminal / terminal
 - npm install
-- npm start ( autoopen dibrowser )
+- npm start ( auto open in browser )
